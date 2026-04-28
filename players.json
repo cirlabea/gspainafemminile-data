@@ -1,0 +1,147 @@
+[
+  {
+    "slug": "maria-saletti-mileto",
+    "number": 1,
+    "name": "Maria Saletti Mileto",
+    "role": "Portiere",
+    "profile": {
+      "bio": "Primo portiere del Paina femminile. Riflessi pronti e grande presenza in area di rigore, con una sintonia speciale con la difensore Giulia Guglielmo che rende il reparto arretrato difficilissimo da superare. La perla di Antonio.",
+      "joinedYear": 2024
+    }
+  },
+  {
+    "slug": "elena-porta",
+    "number": 2,
+    "name": "Elena Porta",
+    "role": "Attaccante",
+    "profile": {
+      "bio": "Semplicemente il gol fatto persona. Seconda classificata nella classifica marcatrici del campionato con 22 reti in stagione regolare, Elena ha la rara capacità di essere sempre nel posto giusto al momento giusto. Finalista spietata, segna con ogni parte del piede e in ogni situazione — da ferma, in corsa, di testa. Il riferimento offensivo del Paina femminile.",
+      "joinedYear": 2025
+    }
+  },
+  {
+    "slug": "aurora-cesana",
+    "number": 3,
+    "name": "Aurora Cesana",
+    "role": "Centrocampista",
+    "profile": {
+      "bio": "Gioca a calcio da poco ma ha già un rapporto speciale con il pallone: riesce a fare trick con i piedi che nemmeno lei sa spiegare come le vengano. Quando è in campo, stupisce.",
+      "joinedYear": 2024
+    }
+  },
+  {
+    "slug": "giulia-guglielmo",
+    "number": 4,
+    "name": "Giulia Guglielmo",
+    "role": "Difensore",
+    "profile": {
+      "bio": "Una saracinesca. Giulia gioca a calcio da anni e in difesa non passa niente: ama il contrasto fisico, non si tira mai indietro su una scivolata e fa della grinta il suo marchio di fabbrica. Ha un carattere fumantino che a volte la mette nei guai, ma è proprio quella stessa intensità a renderla una difensore eccezionale, una su cui si può sempre contare.",
+      "joinedYear": 2024
+    }
+  },
+  {
+    "slug": "michela-bennato",
+    "number": 5,
+    "name": "Michela Bennato",
+    "role": "Centrocampista",
+    "profile": {
+      "bio": "Doppio ruolo: centrocampista in campo e vice-allenatrice a bordo campo. Michela è uno dei pilastri del gruppo, per esperienza e per qualità. Con 9 gol in campionato dimostra che sa anche farsi trovare nelle zone calde. Un riferimento tecnico e umano per tutto il Paina femminile.",
+      "joinedYear": 2025
+    }
+  },
+  {
+    "slug": "lucia-rigon",
+    "number": 6,
+    "name": "Lucia Rigon",
+    "role": "Centrocampista",
+    "profile": {
+      "bio": "La più giovane della squadra — 18 anni compiuti a inizio 2026 — ma non si direbbe. Esterno prevalentemente a destra, Lucia era già brava quando è arrivata, e da allora ha fatto passi da gigante. Ha una velocità e una sfrontatezza che sorprendono le avversarie, e il suo contributo in gol dimostra che non ha paura di mettersi in mostra.",
+      "joinedYear": 2025
+    }
+  },
+  {
+    "slug": "ilaria-valsecchi",
+    "number": 8,
+    "name": "Ilaria Valsecchi",
+    "role": "Centrocampista",
+    "profile": {
+      "bio": "Arrivata a inizio stagione 2025/2026, Ilaria è stata una delle sorprese più belle dell'anno. Ha alle spalle anni di calcio a undici, poi uno stop forzato per infortunio. La voglia di tornare in campo l'ha portata al Paina femminile, e il gruppo l'ha accolta come se fosse sempre stata lì. La sua esperienza si sente.",
+      "joinedYear": 2026
+    }
+  },
+  {
+    "slug": "nicole-trolese",
+    "number": 9,
+    "name": "Nicole Trolese",
+    "role": "Centrocampista",
+    "profile": {
+      "bio": "Esterno con un piede raffinato e un'energia che non si esaurisce mai. Nicole è la cucciolina del gruppo: sempre pronta ad aiutare le compagne, sempre sul pezzo, sempre col sorriso. Sul campo quella stessa disponibilità si traduce in coperture continue, pressing alto e la capacità di fare la differenza in entrambe le fasi.",
+      "nickname": "Nico",
+      "joinedYear": 2025
+    }
+  },
+  {
+    "slug": "beatrice-sofia-cirla",
+    "number": 10,
+    "name": "Beatrice Sofia Cirla",
+    "role": "Attaccante",
+    "isViceCaptain": true,
+    "profile": {
+      "bio": "Vicecapitano. Ha iniziato a giocare a calcio solo l'anno scorso, ma non lo si direbbe: si impegna ogni giorno con una dedizione fuori dal comune e si prende cura della squadra tanto dentro quanto fuori dal campo. Il suo contributo va ben oltre quello che si vede nelle partite.",
+      "nickname": "Bea",
+      "joinedYear": 2024
+    }
+  },
+  {
+    "slug": "giulia-riva",
+    "number": 11,
+    "name": "Giulia Riva",
+    "role": "Centrocampista",
+    "profile": {
+      "bio": "Arrivata dalla pallavolo, senza un minuto di calcio alle spalle. Almeno, così dice lei. Le compagne non ci credono: Giulia gioca da esterno con una naturalezza e una tecnica che non si improvvisano, e ogni volta che tocca palla si becca qualche sfottò affettuoso — \"impossibile che non hai mai giocato\". Il campo, per ora, le dà ragione.",
+      "joinedYear": 2025
+    }
+  },
+  {
+    "slug": "paola-rodegher",
+    "number": 12,
+    "name": "Paola Rodegher",
+    "role": "Portiere",
+    "profile": {
+      "bio": "Secondo portiere. Preziosa alternativa tra i pali e presenza fondamentale nella gestione del gruppo.",
+      "joinedYear": 2024
+    }
+  },
+  {
+    "slug": "daniela-gastaldo",
+    "number": 13,
+    "name": "Daniela Gastaldo",
+    "role": "Centrocampista",
+    "profile": {
+      "bio": "Una macchina da partita. Piccolina ma veloce come un missile, Dani è centrocampista box-to-box nel senso più pieno del termine: la trovi a recuperare palloni nella propria trequarti e due secondi dopo a concludere in porta dall'altra parte. Ha un bel caratterino — i gialli per protesta sono una costante — ma nulla la ferma. I suoi gol arrivano sempre nei momenti che contano.",
+      "nickname": "Dani",
+      "joinedYear": 2025
+    }
+  },
+  {
+    "slug": "giorgia-galetti",
+    "number": 15,
+    "name": "Giorgia Galetti",
+    "role": "Centrocampista",
+    "isCaptain": true,
+    "profile": {
+      "bio": "Capitano della squadra. Leader silenziosa e carismatica, guida il gruppo dal centrocampo con personalità. Sa come si vince, sa come si reagisce e sa cosa vuol dire indossare questa maglia con orgoglio.",
+      "joinedYear": 2025
+    }
+  },
+  {
+    "slug": "francesca-pellegatta",
+    "number": 16,
+    "name": "Francesca Pellegatta",
+    "role": "Attaccante",
+    "profile": {
+      "bio": "Un ritorno a casa. Francesca ha già vestito la maglia del Paina in passato e quest'anno ha scelto di rimetterla. Unica punta nel sistema di gioco della squadra, il suo valore sta soprattutto nella disponibilità e nella voglia di esserci — qualità che in un gruppo contano quanto i gol.",
+      "joinedYear": 2025
+    }
+  }
+]
