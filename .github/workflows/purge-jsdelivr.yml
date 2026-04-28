@@ -1,0 +1,17 @@
+name: Purge jsDelivr cache
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge jsDelivr CDN
+        run: |
+          FILES="club.json matches.json news.json players.json staff.json"
+          for f in $FILES; do
+            curl -s "https://purge.jsdelivr.net/gh/cirlabea/gspainafemminile-data@main/$f"
+            echo "Purged $f"
+          done
