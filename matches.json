@@ -462,6 +462,11 @@
     "venue": {
       "name": "Oratorio S. Luigi",
       "address": "Via Magenta 2, Muggiò"
+    },
+    "result": {
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "painaGoals": []
     }
   },
   {
