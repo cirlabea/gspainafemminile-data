@@ -8,21 +8,51 @@
     "excerpt": "Una partita dalla storia particolare, risolta con autorità: Bennato fa tripletta, Gastaldo firma tre assist, Valsecchi chiude i conti. Il Paina femminile supera 4-1 la Polis SGP II Seregno e porta a casa tre punti importanti nel Primaverile.",
     "author": "Redazione Paina",
     "body": [
-      { "type": "paragraph", "text": "Ci sono partite che vanno oltre il semplice risultato. Quella contro la Polis SGP II Seregno è sempre una di quelle: dall'altra parte del campo ci sono vecchie conoscenze, un passato condiviso che carica la sfida di un'energia diversa, silenziosa ma presente fin dal fischio d'inizio. Nessuna parola in più, si parla sul campo. E il Paina femminile lo sa fare molto bene." },
-      { "type": "heading", "text": "Primo tempo: Bennato accende la luce", "level": 2 },
-      { "type": "paragraph", "text": "Il Paina femminile prende subito in mano il ritmo della partita. Michela Bennato sblocca la gara con un gol ben costruito e non si ferma: poco dopo è ancora lei a raddoppiare, servita con precisione chirurgica da una Daniela Gastaldo già in versione assist-machine. Il 2-0 sembra mettere le cose in discesa, e il primo tempo si chiude con un rassicurante doppio vantaggio." },
-      { "type": "heading", "text": "Secondo tempo: Valsecchi e la tripletta di Bennato", "level": 2 },
-      { "type": "paragraph", "text": "Nella ripresa il Paina femminile rientra in campo con la stessa determinazione, ma una disattenzione di troppo regala alle avversarie una punizione ravvicinata che non perdona: la Polis accorcia sul 2-1 e tiene viva la sfida per qualche minuto. Un gol nato più da un momento di distrazione che da una vera occasione costruita. Il Paina femminile non si scompone: Gastaldo continua a muovere i fili dalla mediana e trova il terzo assist della serata per Valsecchi, che insacca con freddezza e riporta il margine sul doppio vantaggio. A quel punto la partita è chiusa: Bennato completa la tripletta personale con il gol del 4-1, suggellando una prestazione convincente e ordinata." },
-      { "type": "list", "items": [
-        "Bennato — 1-0",
-        "Bennato — 2-0",
-        "Polis SGP — 2-1",
-        "Valsecchi — 3-1",
-        "Bennato — 4-1"
-      ] },
-      { "type": "heading", "text": "Un'avversaria scomoda, superata con ordine", "level": 2 },
-      { "type": "paragraph", "text": "La Polis costruisce il proprio gioco su principi molto diretti: lancio lungo del portiere — la giocatrice più efficace della squadra — e pressione costante sull'area avversaria. Un calcio fisico, verticale, che rinuncia alla costruzione dal basso per puntare tutto sulla profondità e sul secondo tempo del pallone. Per una squadra come il Paina femminile, abituata a ragionare e a giocare il pallone con qualità, l'adattamento arriva in fretta. Qualche sbavatura nel primo tempo, poi il controllo si fa netto." },
-      { "type": "paragraph", "text": "Tre punti importanti che danno fiducia e continuità. Il Primaverile entra nel vivo, e questo Paina femminile ha tutte le carte in regola per giocarsela fino in fondo." }
+      {
+        "type": "paragraph",
+        "text": "Ci sono partite che vanno oltre il semplice risultato. Quella contro la Polis SGP II Seregno è sempre una di quelle: dall'altra parte del campo ci sono vecchie conoscenze, un passato condiviso che carica la sfida di un'energia diversa, silenziosa ma presente fin dal fischio d'inizio. Nessuna parola in più, si parla sul campo. E il Paina femminile lo sa fare molto bene."
+      },
+      {
+        "type": "heading",
+        "text": "Primo tempo: Bennato accende la luce",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Il Paina femminile prende subito in mano il ritmo della partita. Michela Bennato sblocca la gara con un gol ben costruito e non si ferma: poco dopo è ancora lei a raddoppiare, servita con precisione chirurgica da una Daniela Gastaldo già in versione assist-machine. Il 2-0 sembra mettere le cose in discesa, e il primo tempo si chiude con un rassicurante doppio vantaggio."
+      },
+      {
+        "type": "heading",
+        "text": "Secondo tempo: Valsecchi e la tripletta di Bennato",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Nella ripresa il Paina femminile rientra in campo con la stessa determinazione, ma una disattenzione di troppo regala alle avversarie una punizione ravvicinata che non perdona: la Polis accorcia sul 2-1 e tiene viva la sfida per qualche minuto. Un gol nato più da un momento di distrazione che da una vera occasione costruita. Il Paina femminile non si scompone: Gastaldo continua a muovere i fili dalla mediana e trova il terzo assist della serata per Valsecchi, che insacca con freddezza e riporta il margine sul doppio vantaggio. A quel punto la partita è chiusa: Bennato completa la tripletta personale con il gol del 4-1, suggellando una prestazione convincente e ordinata."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Bennato — 1-0",
+          "Bennato — 2-0",
+          "Polis SGP — 2-1",
+          "Valsecchi — 3-1",
+          "Bennato — 4-1"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Un'avversaria scomoda, superata con ordine",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "La Polis costruisce il proprio gioco su principi molto diretti: lancio lungo del portiere — la giocatrice più efficace della squadra — e pressione costante sull'area avversaria. Un calcio fisico, verticale, che rinuncia alla costruzione dal basso per puntare tutto sulla profondità e sul secondo tempo del pallone. Per una squadra come il Paina femminile, abituata a ragionare e a giocare il pallone con qualità, l'adattamento arriva in fretta. Qualche sbavatura nel primo tempo, poi il controllo si fa netto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tre punti importanti che danno fiducia e continuità. Il Primaverile entra nel vivo, e questo Paina femminile ha tutte le carte in regola per giocarsela fino in fondo."
+      }
     ],
     "thumb": {
       "style": "result",
@@ -40,11 +70,28 @@
     "excerpt": "Il Paina femminile apre la fase playoff con una vittoria sofferta ma preziosa contro Fissiraga USF. Gastaldo firma il gol che vale i tre punti.",
     "author": "Redazione Paina",
     "body": [
-      { "type": "paragraph", "text": "Si comincia. Il girone playoff non perdona gli errori e il Paina femminile lo sa benissimo: serve subito una vittoria per ipotecare fin da subito il primo posto. Contro Fissiraga USF, squadra organizzata e difficile da sbloccare, il risultato resta in bilico per quasi tutta la partita." },
-      { "type": "heading", "text": "Una gara tesa, risolta da un guizzo", "level": 2 },
-      { "type": "paragraph", "text": "La partita è bloccata, fisicamente intensa, con pochi spazi. Il Paina femminile controlla senza trovare il varco giusto, finché Daniela Gastaldo si inventa il gol del vantaggio con un inserimento preciso che non lascia scampo al portiere avversario. Da lì in poi la squadra gestisce con ordine, senza concedere occasioni pericolose." },
-      { "type": "quote", "text": "Sapevamo che sarebbe stata dura. Nei playoff ogni partita vale doppio e quella di Gastaldo è stata una rete pesantissima.", "author": "Miriam Giannì, allenatrice" },
-      { "type": "paragraph", "text": "Tre punti d'oro che lanciano il Paina femminile in vetta al girone B fin dalla prima giornata. Il percorso è lungo, ma l'inizio è quello giusto." }
+      {
+        "type": "paragraph",
+        "text": "Si comincia. Il girone playoff non perdona gli errori e il Paina femminile lo sa benissimo: serve subito una vittoria per ipotecare fin da subito il primo posto. Contro Fissiraga USF, squadra organizzata e difficile da sbloccare, il risultato resta in bilico per quasi tutta la partita."
+      },
+      {
+        "type": "heading",
+        "text": "Una gara tesa, risolta da un guizzo",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "La partita è bloccata, fisicamente intensa, con pochi spazi. Il Paina femminile controlla senza trovare il varco giusto, finché Daniela Gastaldo si inventa il gol del vantaggio con un inserimento preciso che non lascia scampo al portiere avversario. Da lì in poi la squadra gestisce con ordine, senza concedere occasioni pericolose."
+      },
+      {
+        "type": "quote",
+        "text": "Sapevamo che sarebbe stata dura. Nei playoff ogni partita vale doppio e quella di Gastaldo è stata una rete pesantissima.",
+        "author": "Miriam Giannì, allenatrice"
+      },
+      {
+        "type": "paragraph",
+        "text": "Tre punti d'oro che lanciano il Paina femminile in vetta al girone B fin dalla prima giornata. Il percorso è lungo, ma l'inizio è quello giusto."
+      }
     ],
     "thumb": {
       "style": "result",
@@ -62,17 +109,33 @@
     "excerpt": "L'ultima giornata del girone di ritorno è una passerella di gol: Rigon, Galetti, Porta, doppietta di Gastaldo. Il Paina femminile chiude il campionato con una prestazione da applausi.",
     "author": "Redazione Paina",
     "body": [
-      { "type": "paragraph", "text": "Ultima giornata di campionato e il Paina femminile vuole lasciare il segno. Polisportiva OMR è l'avversaria, la stessa battuta 2-0 all'andata in trasferta. Questa volta all'Oratorio di Paina il copione è ancora più netto." },
-      { "type": "heading", "text": "Cinque gol per salutare il girone", "level": 2 },
-      { "type": "paragraph", "text": "La partita si mette subito in discesa. Lucia Rigon apre le marcature, poi è Giorgia Galetti a firmare il raddoppio con la qualità che la contraddistingue. Elena Porta si iscrive nella lista dei marcatori, e nel finale è Daniela Gastaldo a chiudere i conti con una doppietta che fa esplodere l'Oratorio." },
-      { "type": "list", "items": [
-        "Rigon — 1-0",
-        "Galetti — 2-0",
-        "Porta — 3-0",
-        "Gastaldo — 4-0",
-        "Gastaldo — 5-0"
-      ] },
-      { "type": "paragraph", "text": "Finisce 5-0. Il campionato si chiude con un secondo posto nel Girone D e la certezza di aver costruito qualcosa di solido. Adesso la testa è già ai playoff." }
+      {
+        "type": "paragraph",
+        "text": "Ultima giornata di campionato e il Paina femminile vuole lasciare il segno. Polisportiva OMR è l'avversaria, la stessa battuta 2-0 all'andata in trasferta. Questa volta all'Oratorio di Paina il copione è ancora più netto."
+      },
+      {
+        "type": "heading",
+        "text": "Cinque gol per salutare il girone",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "La partita si mette subito in discesa. Lucia Rigon apre le marcature, poi è Giorgia Galetti a firmare il raddoppio con la qualità che la contraddistingue. Elena Porta si iscrive nella lista dei marcatori, e nel finale è Daniela Gastaldo a chiudere i conti con una doppietta che fa esplodere l'Oratorio."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Rigon — 1-0",
+          "Galetti — 2-0",
+          "Porta — 3-0",
+          "Gastaldo — 4-0",
+          "Gastaldo — 5-0"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Finisce 5-0. Il campionato si chiude con un secondo posto nel Girone D e la certezza di aver costruito qualcosa di solido. Adesso la testa è già ai playoff."
+      }
     ],
     "thumb": {
       "style": "result",
@@ -90,11 +153,28 @@
     "excerpt": "Nella gara di ritorno il Paina femminile cede per 2-1 al Sanfra Open Femminile. Una delle rarissime battute d'arresto della stagione, da cui il gruppo riparte con ancora più determinazione.",
     "author": "Redazione Paina",
     "body": [
-      { "type": "paragraph", "text": "Non tutte le domeniche filano lisce, e quella di gennaio a casa del Sanfra Open Femminile è una di quelle da archiviare in fretta. La sconfitta per 2-1 arriva in una gara in cui il Paina femminile non riesce a esprimere il suo gioco, pagando alcune disattenzioni difensive care." },
-      { "type": "heading", "text": "La partita", "level": 2 },
-      { "type": "paragraph", "text": "Il Sanfra parte forte e trova il doppio vantaggio prima della fine del primo tempo. Nella ripresa il Paina femminile tenta la reazione e accorcia con Elena Porta, che firma il suo ennesimo gol in campionato. Il pareggio però non arriva, e la gara si chiude 2-1." },
-      { "type": "quote", "text": "Ci sta di perdere una partita, l'importante è non perdere mai la testa. Questo gruppo ha dimostrato di saper reagire, e lo farà anche stavolta.", "author": "Miriam Giannì, allenatrice" },
-      { "type": "paragraph", "text": "Il ko non scalfisce la solidità della classifica: il Paina femminile resta nelle posizioni di vertice del Girone D con un ruolino di marcia che poche squadre possono vantare. Testa alta e si riparte." }
+      {
+        "type": "paragraph",
+        "text": "Non tutte le domeniche filano lisce, e quella di gennaio a casa del Sanfra Open Femminile è una di quelle da archiviare in fretta. La sconfitta per 2-1 arriva in una gara in cui il Paina femminile non riesce a esprimere il suo gioco, pagando alcune disattenzioni difensive care."
+      },
+      {
+        "type": "heading",
+        "text": "La partita",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Il Sanfra parte forte e trova il doppio vantaggio prima della fine del primo tempo. Nella ripresa il Paina femminile tenta la reazione e accorcia con Elena Porta, che firma il suo ennesimo gol in campionato. Il pareggio però non arriva, e la gara si chiude 2-1."
+      },
+      {
+        "type": "quote",
+        "text": "Ci sta di perdere una partita, l'importante è non perdere mai la testa. Questo gruppo ha dimostrato di saper reagire, e lo farà anche stavolta.",
+        "author": "Miriam Giannì, allenatrice"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il ko non scalfisce la solidità della classifica: il Paina femminile resta nelle posizioni di vertice del Girone D con un ruolino di marcia che poche squadre possono vantare. Testa alta e si riparte."
+      }
     ],
     "thumb": {
       "style": "result",
@@ -112,15 +192,31 @@
     "excerpt": "Grande prestazione in trasferta: doppietta di Elena Porta e gol di Michela Bennato per uno 0-3 che non lascia spazio a discussioni. Il Paina femminile domina lontano da casa.",
     "author": "Redazione Paina",
     "body": [
-      { "type": "paragraph", "text": "Trasferta a Milano, campo delle Rosario Girls. Una sfida che sulla carta poteva nascondere insidie, ma che il Paina femminile affronta con il piglio giusto fin dal fischio d'inizio. Il risultato finale di 0-3 parla da solo." },
-      { "type": "heading", "text": "Porta e Bennato firmano il tris", "level": 2 },
-      { "type": "paragraph", "text": "È Elena Porta a sbloccare la gara con un gol di classe che vale il vantaggio meritato. Nella ripresa Michela Bennato raddoppia con una conclusione precisa dal limite, e poco dopo è ancora Porta a chiudere definitivamente i conti con la sua personale doppietta. Tre gol, tre punti, zero sbavature." },
-      { "type": "list", "items": [
-        "Porta — 0-1",
-        "Bennato — 0-2",
-        "Porta — 0-3"
-      ] },
-      { "type": "paragraph", "text": "Una vittoria che pesa doppio perché arriva in trasferta e dimostra che il Paina femminile sa fare risultato in qualsiasi campo. La risposta delle avversarie arriverà nel ritorno: ma lì andrà ancora peggio per loro (5-0)." }
+      {
+        "type": "paragraph",
+        "text": "Trasferta a Milano, campo delle Rosario Girls. Una sfida che sulla carta poteva nascondere insidie, ma che il Paina femminile affronta con il piglio giusto fin dal fischio d'inizio. Il risultato finale di 0-3 parla da solo."
+      },
+      {
+        "type": "heading",
+        "text": "Porta e Bennato firmano il tris",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "È Elena Porta a sbloccare la gara con un gol di classe che vale il vantaggio meritato. Nella ripresa Michela Bennato raddoppia con una conclusione precisa dal limite, e poco dopo è ancora Porta a chiudere definitivamente i conti con la sua personale doppietta. Tre gol, tre punti, zero sbavature."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Porta — 0-1",
+          "Bennato — 0-2",
+          "Porta — 0-3"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Una vittoria che pesa doppio perché arriva in trasferta e dimostra che il Paina femminile sa fare risultato in qualsiasi campo. La risposta delle avversarie arriverà nel ritorno: ma lì andrà ancora peggio per loro (5-0)."
+      }
     ],
     "thumb": {
       "style": "result",
@@ -138,20 +234,40 @@
     "excerpt": "All'Oratorio di Paina va in scena una serata di calcio spettacolare: 7-1 al Sanfra Open Femminile con quattro reti di Elena Porta, due di Michela Bennato e una di Daniela Gastaldo.",
     "author": "Redazione Paina",
     "body": [
-      { "type": "paragraph", "text": "Ci sono partite che si trasformano in qualcosa di speciale. Quella del 1° novembre contro il Sanfra Open Femminile è una di queste: sette gol, un Oratorio di Paina in festa e una prestazione corale che rimarrà nella memoria di questa stagione." },
-      { "type": "heading", "text": "Il mattatore: Elena Porta", "level": 2 },
-      { "type": "paragraph", "text": "Quattro gol in una sola partita: Elena Porta è incontenibile. Servita alla perfezione dalla manovra della squadra, l'attaccante del Paina femminile si inventa soluzioni diverse per ogni rete, dimostrando perché è la capocannoniere del campionato. Al suo fianco, Michela Bennato si prende due gol e la scena del centrocampo, mentre Daniela Gastaldo arrotonda il conto con la rete del 7-1." },
-      { "type": "list", "items": [
-        "Porta — 1-0",
-        "Bennato — 2-0",
-        "Bennato — 3-0",
-        "Porta — 4-0",
-        "Gastaldo — 5-0",
-        "Porta — 6-1",
-        "Porta — 7-1"
-      ] },
-      { "type": "quote", "text": "Una serata perfetta. Elena è stata straordinaria, ma tutta la squadra ha giocato un calcio bellissimo. Sono serate così che ti fanno capire quanto vale questo gruppo.", "author": "Miriam Giannì, allenatrice" },
-      { "type": "paragraph", "text": "Il 7-1 al Sanfra è la vittoria più larga della stagione regolare. Una risposta netta dopo il pareggio all'esordio contro OSL, un segnale chiaro a tutto il girone: il Paina femminile è qui per fare sul serio." }
+      {
+        "type": "paragraph",
+        "text": "Ci sono partite che si trasformano in qualcosa di speciale. Quella del 1° novembre contro il Sanfra Open Femminile è una di queste: sette gol, un Oratorio di Paina in festa e una prestazione corale che rimarrà nella memoria di questa stagione."
+      },
+      {
+        "type": "heading",
+        "text": "Il mattatore: Elena Porta",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Quattro gol in una sola partita: Elena Porta è incontenibile. Servita alla perfezione dalla manovra della squadra, l'attaccante del Paina femminile si inventa soluzioni diverse per ogni rete, dimostrando perché è la capocannoniere del campionato. Al suo fianco, Michela Bennato si prende due gol e la scena del centrocampo, mentre Daniela Gastaldo arrotonda il conto con la rete del 7-1."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Porta — 1-0",
+          "Bennato — 2-0",
+          "Bennato — 3-0",
+          "Porta — 4-0",
+          "Gastaldo — 5-0",
+          "Porta — 6-1",
+          "Porta — 7-1"
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "Una serata perfetta. Elena è stata straordinaria, ma tutta la squadra ha giocato un calcio bellissimo. Sono serate così che ti fanno capire quanto vale questo gruppo.",
+        "author": "Miriam Giannì, allenatrice"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il 7-1 al Sanfra è la vittoria più larga della stagione regolare. Una risposta netta dopo il pareggio all'esordio contro OSL, un segnale chiaro a tutto il girone: il Paina femminile è qui per fare sul serio."
+      }
     ],
     "thumb": {
       "style": "result",
@@ -231,7 +347,11 @@
         "type": "paragraph",
         "text": "È ufficiale: il Paina femminile giocherà in Open A nella prossima stagione. Il primo posto nel Girone B dei playoff CSI Milano certifica una promozione meritata, frutto di un percorso straordinario costruito nel corso di tutta la stagione."
       },
-      { "type": "heading", "text": "Il percorso playoff", "level": 2 },
+      {
+        "type": "heading",
+        "text": "Il percorso playoff",
+        "level": 2
+      },
       {
         "type": "paragraph",
         "text": "Sei partite, cinque vittorie e una sola sconfitta: questo il bilancio del girone playoff. La Paina ha dominato il suo raggruppamento sin dalla prima giornata, battendo Fissiraga USF, Juvenilia Maradonne e Nika ASD con numeri da capogiro. 23 gol segnati, prestazioni di altissimo livello e una mentalità vincente che non ha mai vacillato, nemmeno nella sconfitta per 6-3 nell'ultima giornata contro Nika ASD, quando il pass per l'Open A era già in tasca."
@@ -247,7 +367,11 @@
           "25/03 — Nika ASD vs Paina 2004 6-3"
         ]
       },
-      { "type": "heading", "text": "Le parole dell'allenatrice", "level": 2 },
+      {
+        "type": "heading",
+        "text": "Le parole dell'allenatrice",
+        "level": 2
+      },
       {
         "type": "quote",
         "text": "Sono orgogliosa di ogni singola ragazza. Abbiamo lavorato duramente, ci siamo volute bene nei momenti difficili e ora raccogliamo quello che meritiamo. L'Open A è il palcoscenico giusto per questo gruppo.",
@@ -293,7 +417,11 @@
           "Classifica marcatrici: Porta 22, Bennato 9, Gastaldo 4, Galetti 3, Rigon 2"
         ]
       },
-      { "type": "heading", "text": "Il cammino", "level": 2 },
+      {
+        "type": "heading",
+        "text": "Il cammino",
+        "level": 2
+      },
       {
         "type": "paragraph",
         "text": "La squadra ha dominato gran parte del girone, inanellando risultati di spessore: 7-1 al Sanfra Open Femminile, 5-0 contro Rosario Girls e Polisportiva OMR, 4-0 ad Ascot Triante. Le uniche note stonanti sono arrivate contro Lecco Alta (0-2 in trasferta e 1-0 a casa) e Sanfra (2-1 nel ritorno). Il pareggio iniziale con OSL 2015 Sesto ha poi trovato riscatto nella gara di ritorno, con una vittoria per 2-1 in trasferta."
@@ -362,7 +490,11 @@
           "Promozione in Open A conquistata"
         ]
       },
-      { "type": "heading", "text": "Le protagoniste", "level": 2 },
+      {
+        "type": "heading",
+        "text": "Le protagoniste",
+        "level": 2
+      },
       {
         "type": "paragraph",
         "text": "Una stagione del genere non si costruisce con le singole individualità, ma con un gruppo. Da Maria Saletti Mileto tra i pali, sempre affidabile nei momenti decisivi, alla capitana Giorgia Galetti che ha guidato il centrocampo con personalità; dalle dinamiche difensive di Giulia Guglielmo alla verve di Elena Porta in attacco. Ogni componente ha dato il suo contributo in un progetto collettivo che ha trovato la sua giusta ricompensa."
@@ -398,7 +530,11 @@
         "type": "paragraph",
         "text": "Trasferta difficile al Comunale di Via Oglio a Bollate, dove la Cassina Nuova ha messo subito in difficoltà il Paina femminile con un avvio di partita aggressivo. Le padrone di casa sono passate in vantaggio nella prima metà del primo tempo, costringendo le ragazze di mister Giannì a rincorrere."
       },
-      { "type": "heading", "text": "La reazione della squadra", "level": 2 },
+      {
+        "type": "heading",
+        "text": "La reazione della squadra",
+        "level": 2
+      },
       {
         "type": "paragraph",
         "text": "Nonostante l'avvio in salita, la squadra non ha mai perso la testa. La spinta è arrivata dal centrocampo, con Daniela Gastaldo a firmare il gol del pareggio che ha rimesso tutto in equilibrio."
@@ -408,7 +544,11 @@
         "text": "È stato un punto sudato, ma il carattere del gruppo è stato determinante. Ora testa subito alla prossima.",
         "author": "Miriam Giannì, allenatrice"
       },
-      { "type": "heading", "text": "Prossimo impegno", "level": 2 },
+      {
+        "type": "heading",
+        "text": "Prossimo impegno",
+        "level": 2
+      },
       {
         "type": "paragraph",
         "text": "Mercoledì 22 aprile si torna in campo davanti al pubblico di casa per affrontare Don Bosco Arese nel big match della settimana. Calcio di inizio alle 21:30 all'Oratorio di Paina."
@@ -467,7 +607,11 @@
         "type": "paragraph",
         "text": "A fine maggio si aggiunge al calendario il Torneo di Cesano Maderno, organizzato all'Oratorio Card. Colombo. Quattro appuntamenti che culminano con la finale di domenica 7 giugno."
       },
-      { "type": "heading", "text": "Il programma", "level": 2 },
+      {
+        "type": "heading",
+        "text": "Il programma",
+        "level": 2
+      },
       {
         "type": "list",
         "items": [
@@ -498,7 +642,11 @@
         "type": "paragraph",
         "text": "L'Oratorio di Paina si aspettava una bella partita, e la bella partita è arrivata. Contro il Don Bosco Arese nel secondo turno della fase primaverile, le ragazze di mister Giannì hanno prima patito il gol ospite, poi hanno tirato fuori tutta la qualità che le contraddistingue per vincere 6-1 in modo convincente."
       },
-      { "type": "heading", "text": "Prima loro, poi sei noi", "level": 2 },
+      {
+        "type": "heading",
+        "text": "Prima loro, poi sei noi",
+        "level": 2
+      },
       {
         "type": "paragraph",
         "text": "Il Don Bosco Arese sblocca il risultato e costringe il Paina a rincorrere fin dall'inizio. Ma il vantaggio ospite dura poco: Giulia Riva risponde subito con il gol del pareggio, rimettendo tutto in equilibrio e ridando energia all'Oratorio. Da quel momento in poi è un monologo. Elena Porta firma il sorpasso, Michela Bennato allunga, Nicole Trolese si iscrive nella lista dei marcatori con la sua prima rete stagionale, poi è Ilaria Valsecchi a presentarsi al tabellino. Il sipario lo cala ancora Porta, con la sua seconda rete della serata."
@@ -529,6 +677,73 @@
       "style": "result",
       "label": "6-1",
       "subtitle": "PAINA VS DON BOSCO ARESE",
+      "variant": "navy"
+    }
+  },
+  {
+    "id": "calendario-maggio-2026",
+    "slug": "calendario-maggio-2026",
+    "date": "2026-05-01",
+    "category": "Stagione",
+    "title": "Sei partite in un mese: il Paina non si ferma più",
+    "excerpt": "Primaverile, torneo e una finale all'orizzonte: un maggio da vivere tutto d'un fiato.",
+    "author": "Redazione Paina",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Dopo un aprile già intenso, maggio non porta tregua — e per il Paina femminile va benissimo così. Il calendario del mese che si apre conta sei partite in trenta giorni, con due competizioni in corso in parallelo e un appuntamento che vale doppio: il 22 e il 23 maggio, due gare in due giorni consecutivi."
+      },
+      {
+        "type": "paragraph",
+        "text": "È il momento dell'anno in cui si raccoglie quello che si è seminato negli allenamenti del lunedì e del mercoledì, in cui le rotazioni diventano fondamentali e ogni minuto in campo pesa. E con l'anno che entra nel suo tratto più caldo, il gruppo è chiamato a tenere alta la concentrazione anche fuori dal rettangolo: gestire le energie, recuperare bene, presentarsi pronte ad ogni fischio d'inizio."
+      },
+      {
+        "type": "heading",
+        "text": "Le tappe del mese",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Il primo impegno è il 9 maggio all'Oratorio di Paina, dove arriva l'Azzurra Oratorio Albiate per la Primaverile. Una settimana per preparare la trasferta del 16 maggio a Rho contro il Giosport, gara delicata su un campo che il Paina conosce poco."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il weekend del 22-23 è quello più denso della stagione: venerdì sera al torneo di Cesano Maderno, sabato sera di nuovo in campo all'Oratorio per la Primaverile contro la S. Bernardo. Due gare in meno di ventiquattr'ore, da gestire con testa, gambe e cuore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi ancora Cesano Maderno il 28 e il 30 maggio, per completare il girone del torneo organizzato dall'Oratorio Card. Colombo. E all'orizzonte c'è già il 7 giugno: la finale, l'obiettivo di tutto questo lavoro."
+      },
+      {
+        "type": "heading",
+        "text": "Il calendario completo di maggio",
+        "level": 2
+      },
+      {
+        "type": "list",
+        "items": [
+          "9 mag — Primaverile · Paina vs Azzurra Oratorio Albiate · Oratorio Paina",
+          "16 mag — Primaverile · Giosport vs Paina · Rho",
+          "22 mag — Torneo · Cesano Maderno",
+          "23 mag — Primaverile · Paina vs S. Bernardo · Oratorio Paina",
+          "28 mag — Torneo · Cesano Maderno",
+          "30 mag — Torneo · Cesano Maderno"
+        ]
+      },
+      {
+        "type": "quote",
+        "text": "È il mese in cui non puoi nascondere niente: chi lavora bene si vede, chi sa soffrire insieme alle compagne si vede ancora di più. Ci arriviamo con la voglia giusta.",
+        "author": "Miriam Giannì, allenatrice"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un mese da affrontare con energia, concentrazione e la consapevolezza che questo gruppo sa tenere i ritmi alti quando conta. L'Oratorio di Paina aspetta, le trasferte chiamano, e il calendario non lascia tempo per pensieri inutili: si gioca, si recupera, si ricomincia."
+      }
+    ],
+    "thumb": {
+      "style": "text",
+      "label": "6 GARE",
+      "subtitle": "IN 30 GIORNI",
       "variant": "navy"
     }
   }
