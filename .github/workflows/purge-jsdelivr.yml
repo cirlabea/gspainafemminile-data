@@ -8,10 +8,21 @@ jobs:
   purge:
     runs-on: ubuntu-latest
     steps:
+      - name: Wait for jsDelivr to see new commit
+        run: sleep 30
+
       - name: Purge jsDelivr CDN
         run: |
           FILES="club.json matches.json news.json players.json staff.json"
           for f in $FILES; do
             curl -s "https://purge.jsdelivr.net/gh/cirlabea/gspainafemminile-data@main/$f"
             echo "Purged $f"
+          done
+
+      - name: Wait and re-purge (failsafe)
+        run: |
+          sleep 30
+          FILES="club.json matches.json news.json players.json staff.json"
+          for f in $FILES; do
+            curl -s "https://purge.jsdelivr.net/gh/cirlabea/gspainafemminile-data@main/$f"
           done
