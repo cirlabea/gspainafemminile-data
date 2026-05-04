@@ -746,5 +746,70 @@
       "subtitle": "IN 30 GIORNI",
       "variant": "navy"
     }
+  },
+  {
+    "id": "leghiamoci-alla-pace-2026",
+    "slug": "leghiamoci-alla-pace-2026",
+    "date": "2026-05-04",
+    "category": "Società",
+    "title": "Leghiamoci alla pace: il Paina dice la sua",
+    "excerpt": "Insieme alla mobilitazione sportiva promossa da CSI Milano, Caritas Milano e Fondazione Oratori Milanesi — perché lo sport, prima che vittoria, è messaggio.",
+    "author": "Redazione Paina",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "In un weekend importante per le nostre ragazze — tra impegni di calendario, partite da preparare e risultati da inseguire — abbiamo scelto di fermarci un attimo e di alzare lo sguardo. C'è un modo in cui lo sport può andare oltre il campo, e il Paina femminile ha deciso di farlo: aderire alla mobilitazione sportiva per la pace \"Leghiamoci alla pace\", promossa da CSI Milano, Caritas Ambrosiana e Fondazione Oratori Milanesi."
+      },
+      {
+        "type": "image",
+        "url": "/assets/images/leghiamoci-alla-pace/FotoMani.jpg",
+        "caption": "Mani in cerchio, nastri al polso. Prima del fischio d'inizio."
+      },
+      {
+        "type": "heading",
+        "text": "Un nastro bianco al polso",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "L'iniziativa chiede a chi pratica sport, in tutta la diocesi, di legarsi simbolicamente un nastro bianco al polso prima di scendere in campo. Un gesto semplice, di quelli che fanno le società sportive quando vogliono ricordarsi che dentro una maglia non c'è solo una giocatrice: ci sono valori, comunità, impegno verso il fuori."
+      },
+      {
+        "type": "paragraph",
+        "text": "E così l'ha fatto anche la prima squadra del Paina 2004 femminile: prima del fischio d'inizio, tutte insieme in cerchio, mani unite, nastri annodati al polso. Una foto — quelle che restano — che vale più di mille proclami."
+      },
+      {
+        "type": "quote",
+        "text": "Leghiamoci alla pace."
+      },
+      {
+        "type": "heading",
+        "text": "Lo sport che fa rumore in silenzio",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Il messaggio è chiaro: lo sport ha una voce, e quella voce deve dire qualcosa che conta. In un'epoca in cui le notizie pesano e le distanze sembrano sempre più larghe, fermarsi un attimo prima di una partita per ricordare che ci sono cose più grandi della partita stessa — vincere, perdere, una posizione in classifica — è un segnale."
+      },
+      {
+        "type": "image",
+        "url": "/assets/images/leghiamoci-alla-pace/FotoGruppo.jpg",
+        "caption": "La prima squadra dopo la partita: stesse maglie, stesso messaggio."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le ragazze hanno giocato, come sempre. Hanno difeso, attaccato, urlato sotto rete. Ma con quel nastro bianco a ricordare a tutte — anche a chi guardava dalla tribuna — che c'è una squadra molto più grande, fatta di società, oratori, allenatori, famiglie, che ha deciso di non restare zitta."
+      },
+      {
+        "type": "paragraph",
+        "text": "Grazie a CSI Milano, Caritas e Fondazione Oratori Milanesi per averci dato l'occasione di esserci. Noi ci siamo. #leghiamociallapace 🌈"
+      }
+    ],
+    "thumb": {
+      "style": "text",
+      "label": "🌈 PACE",
+      "subtitle": "LEGHIAMOCI ALLA PACE",
+      "variant": "light"
+    }
   }
 ]
