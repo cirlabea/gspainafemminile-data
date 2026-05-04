@@ -12,7 +12,12 @@
     "result": {
       "homeGoals": 1,
       "awayGoals": 1,
-      "painaGoals": [{ "playerNumber": 2, "playerLastName": "Porta" }]
+      "painaGoals": [
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        }
+      ]
     }
   },
   {
@@ -29,8 +34,14 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "painaGoals": [
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 5, "playerLastName": "Bennato" }
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        }
       ]
     }
   },
@@ -48,10 +59,22 @@
       "homeGoals": 4,
       "awayGoals": 1,
       "painaGoals": [
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 5, "playerLastName": "Bennato" }
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        }
       ]
     }
   },
@@ -69,13 +92,34 @@
       "homeGoals": 7,
       "awayGoals": 1,
       "painaGoals": [
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 5, "playerLastName": "Bennato" },
-        { "playerNumber": 5, "playerLastName": "Bennato" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 13, "playerLastName": "Gastaldo" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 2, "playerLastName": "Porta" }
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        }
       ]
     }
   },
@@ -93,8 +137,14 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "painaGoals": [
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 6, "playerLastName": "Rigon" }
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 6,
+          "playerLastName": "Rigon"
+        }
       ]
     }
   },
@@ -111,7 +161,12 @@
     "result": {
       "homeGoals": 1,
       "awayGoals": 0,
-      "painaGoals": [{ "playerNumber": 5, "playerLastName": "Bennato" }]
+      "painaGoals": [
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        }
+      ]
     }
   },
   {
@@ -128,9 +183,18 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "painaGoals": [
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 5, "playerLastName": "Bennato" },
-        { "playerNumber": 2, "playerLastName": "Porta" }
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        }
       ]
     }
   },
@@ -148,11 +212,26 @@
       "homeGoals": 5,
       "awayGoals": 0,
       "painaGoals": [
-        { "playerNumber": 5, "playerLastName": "Bennato" },
-        { "playerNumber": 5, "playerLastName": "Bennato" },
-        { "playerNumber": 13, "playerLastName": "Gastaldo" },
-        { "playerNumber": 15, "playerLastName": "Galetti" },
-        { "playerNumber": 2, "playerLastName": "Porta" }
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        },
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        },
+        {
+          "playerNumber": 15,
+          "playerLastName": "Galetti"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        }
       ]
     }
   },
@@ -170,10 +249,22 @@
       "homeGoals": 0,
       "awayGoals": 4,
       "painaGoals": [
-        { "playerNumber": 15, "playerLastName": "Galetti" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 5, "playerLastName": "Bennato" },
-        { "playerNumber": 2, "playerLastName": "Porta" }
+        {
+          "playerNumber": 15,
+          "playerLastName": "Galetti"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        }
       ]
     }
   },
@@ -190,7 +281,12 @@
     "result": {
       "homeGoals": 2,
       "awayGoals": 1,
-      "painaGoals": [{ "playerNumber": 2, "playerLastName": "Porta" }]
+      "painaGoals": [
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        }
+      ]
     }
   },
   {
@@ -207,9 +303,18 @@
       "homeGoals": 3,
       "awayGoals": 1,
       "painaGoals": [
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 2, "playerLastName": "Porta" }
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        }
       ]
     }
   },
@@ -243,8 +348,14 @@
       "homeGoals": 1,
       "awayGoals": 2,
       "painaGoals": [
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 2, "playerLastName": "Porta" }
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        }
       ]
     }
   },
@@ -262,11 +373,26 @@
       "homeGoals": 5,
       "awayGoals": 0,
       "painaGoals": [
-        { "playerNumber": 6, "playerLastName": "Rigon" },
-        { "playerNumber": 15, "playerLastName": "Galetti" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 13, "playerLastName": "Gastaldo" },
-        { "playerNumber": 13, "playerLastName": "Gastaldo" }
+        {
+          "playerNumber": 6,
+          "playerLastName": "Rigon"
+        },
+        {
+          "playerNumber": 15,
+          "playerLastName": "Galetti"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        },
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        }
       ]
     }
   },
@@ -283,7 +409,12 @@
     "result": {
       "homeGoals": 1,
       "awayGoals": 0,
-      "painaGoals": [{ "playerNumber": 13, "playerLastName": "Gastaldo" }]
+      "painaGoals": [
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        }
+      ]
     }
   },
   {
@@ -300,11 +431,26 @@
       "homeGoals": 5,
       "awayGoals": 1,
       "painaGoals": [
-        { "playerNumber": 13, "playerLastName": "Gastaldo" },
-        { "playerNumber": 13, "playerLastName": "Gastaldo" },
-        { "playerNumber": 8, "playerLastName": "Valsecchi" },
-        { "playerNumber": 13, "playerLastName": "Gastaldo" },
-        { "playerNumber": 13, "playerLastName": "Gastaldo" }
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        },
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        },
+        {
+          "playerNumber": 8,
+          "playerLastName": "Valsecchi"
+        },
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        },
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        }
       ]
     }
   },
@@ -322,10 +468,22 @@
       "homeGoals": 4,
       "awayGoals": 2,
       "painaGoals": [
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 13, "playerLastName": "Gastaldo" },
-        { "playerNumber": 8, "playerLastName": "Valsecchi" }
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        },
+        {
+          "playerNumber": 8,
+          "playerLastName": "Valsecchi"
+        }
       ]
     }
   },
@@ -343,12 +501,30 @@
       "homeGoals": 6,
       "awayGoals": 0,
       "painaGoals": [
-        { "playerNumber": 8, "playerLastName": "Valsecchi" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 8, "playerLastName": "Valsecchi" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 15, "playerLastName": "Galetti" }
+        {
+          "playerNumber": 8,
+          "playerLastName": "Valsecchi"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 8,
+          "playerLastName": "Valsecchi"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 15,
+          "playerLastName": "Galetti"
+        }
       ]
     }
   },
@@ -366,10 +542,22 @@
       "homeGoals": 4,
       "awayGoals": 2,
       "painaGoals": [
-        { "playerNumber": 13, "playerLastName": "Gastaldo" },
-        { "playerNumber": 15, "playerLastName": "Galetti" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 5, "playerLastName": "Bennato" }
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        },
+        {
+          "playerNumber": 15,
+          "playerLastName": "Galetti"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        }
       ]
     }
   },
@@ -387,9 +575,18 @@
       "homeGoals": 6,
       "awayGoals": 3,
       "painaGoals": [
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 13, "playerLastName": "Gastaldo" }
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        }
       ]
     }
   },
@@ -406,7 +603,12 @@
     "result": {
       "homeGoals": 1,
       "awayGoals": 1,
-      "painaGoals": [{ "playerNumber": 13, "playerLastName": "Gastaldo" }]
+      "painaGoals": [
+        {
+          "playerNumber": 13,
+          "playerLastName": "Gastaldo"
+        }
+      ]
     }
   },
   {
@@ -423,12 +625,30 @@
       "homeGoals": 6,
       "awayGoals": 1,
       "painaGoals": [
-        { "playerNumber": 11, "playerLastName": "Riva" },
-        { "playerNumber": 2, "playerLastName": "Porta" },
-        { "playerNumber": 5, "playerLastName": "Bennato" },
-        { "playerNumber": 9, "playerLastName": "Trolese" },
-        { "playerNumber": 8, "playerLastName": "Valsecchi" },
-        { "playerNumber": 2, "playerLastName": "Porta" }
+        {
+          "playerNumber": 11,
+          "playerLastName": "Riva"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        },
+        {
+          "playerNumber": 9,
+          "playerLastName": "Trolese"
+        },
+        {
+          "playerNumber": 8,
+          "playerLastName": "Valsecchi"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        }
       ]
     }
   },
@@ -446,10 +666,22 @@
       "homeGoals": 4,
       "awayGoals": 1,
       "painaGoals": [
-        { "playerNumber": 5, "playerLastName": "Bennato" },
-        { "playerNumber": 5, "playerLastName": "Bennato" },
-        { "playerNumber": 8, "playerLastName": "Valsecchi" },
-        { "playerNumber": 5, "playerLastName": "Bennato" }
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        },
+        {
+          "playerNumber": 8,
+          "playerLastName": "Valsecchi"
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato"
+        }
       ]
     }
   },
@@ -503,7 +735,7 @@
     }
   },
   {
-    "datetime": "2026-05-23T19:30:00",
+    "datetime": "2026-05-25T21:30:00",
     "competition": "Primaverile",
     "homeTeam": "Paina 2004",
     "awayTeam": "S. Bernardo",
