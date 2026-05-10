@@ -710,6 +710,22 @@
     "venue": {
       "name": "Oratorio Paina",
       "address": "Via Zara 13/A, Giussano"
+    },
+    "result": {
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "painaGoals": [
+        {
+          "playerNumber": 15,
+          "playerLastName": "Galetti",
+          "minute": 6
+        },
+        {
+          "playerNumber": 5,
+          "playerLastName": "Bennato",
+          "minute": 19
+        }
+      ]
     }
   },
   {

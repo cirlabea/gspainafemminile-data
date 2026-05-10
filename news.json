@@ -811,5 +811,79 @@
       "subtitle": "LEGHIAMOCI ALLA PACE",
       "variant": "light"
     }
+  },
+  {
+    "id": "match-report-albiate-2-1",
+    "slug": "match-report-albiate-2-1",
+    "date": "2026-05-09",
+    "category": "Match Report",
+    "title": "Galetti, Bennato e tanto carattere: il Paina batte l'Albiate 2-1",
+    "excerpt": "Vittoria di sostanza contro la vincitrice dell'altro girone playoff. Si parte forte, si soffre nella ripresa, si tiene fino al triplice fischio.",
+    "author": "Redazione Paina",
+    "body": [
+      {
+        "type": "paragraph",
+        "text": "Era una partita a cui non si poteva arrivare distratte, e così è andata. Davanti, sull'altro lato del campo, c'era l'Azzurra Oratorio Albiate: la squadra che ha vinto l'altro girone playoff e che, proprio come il Paina, si è guadagnata il pass per la Open A della prossima stagione. Due squadre destinate ad incontrarsi, due squadre che volevano dirsi qualcosa già adesso. E qualcosa se le sono dette eccome."
+      },
+      {
+        "type": "heading",
+        "text": "Si parte fortissimo: 2-0 in venti minuti",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Il Paina entra sul campo con le idee chiare e il piede pesante. Al 6' è già 1-0: Giorgia Galetti sblocca la partita raccogliendo un assist preciso di Elena Porta, che premia la pressione alta delle prime battute. L'Oratorio applaude, l'Albiate accusa, e il Paina non leva il piede dall'acceleratore. Tredici minuti dopo, al 19', arriva il raddoppio: Michela Bennato firma il 2-0 con una botta da fuori area, una di quelle conclusioni potenti che ormai sono il suo marchio di fabbrica. Pallone sotto la traversa, esultanza meritata."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sembra che si possa allungare ancora, ma la qualità dell'avversaria si vede: l'Albiate riesce a non sbandare e prende le misure."
+      },
+      {
+        "type": "heading",
+        "text": "Un secondo tempo da cuore in gola",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Nella ripresa la partita cambia faccia. Il ritmo si alza, il contatto fisico anche. L'Albiate trova il 2-1 su calcio piazzato, e la mezz'ora finale diventa una battaglia di nervi prima che di gambe. Le avversarie capiscono dove possono provare a far saltare il banco, e provano a innervosire il Paina con qualche atteggiamento poco sportivo: parole di troppo, contatti cercati, provocazioni mirate. Una di quelle situazioni in cui la cosa più difficile non è correre — è non rispondere."
+      },
+      {
+        "type": "paragraph",
+        "text": "Su quel piano, va detto, non sempre la nostra reazione è stata all'altezza. Qualche scintilla di troppo, qualche risposta che si poteva risparmiare: cose che capitano, ma su cui c'è da lavorare. Quello che però ha tenuto, e che alla fine ha contato di più, è stato il risultato in campo: il Paina si difende, riparte, lotta su ogni pallone fino al triplice fischio. Non concede il pareggio. Finisce 2-1."
+      },
+      {
+        "type": "heading",
+        "text": "Fuori dal campo, qualche scintilla di troppo",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "A fine partita la tensione si è prolungata anche fuori dal rettangolo, con discussioni tra le due panchine che sarebbe stato bello evitare. Niente di grave, ma il segnale è chiaro: alzare il livello significa anche alzare la temperatura. È un altro pezzo di crescita che questo gruppo si porta a casa — e su cui dovrà imparare a tenere meglio i nervi."
+      },
+      {
+        "type": "quote",
+        "text": "È stata una partita vera, di quelle in cui non vinci solo con i piedi. Ci sono cose che dobbiamo imparare a gestire, sia nei momenti in campo sia in quello che ci succede intorno. Ma il risultato lo abbiamo portato a casa, e questo è quello che conta.",
+        "author": "Miriam Giannì, allenatrice"
+      },
+      {
+        "type": "heading",
+        "text": "Tre punti pesanti, e un appuntamento futuro",
+        "level": 2
+      },
+      {
+        "type": "paragraph",
+        "text": "Il Paina mantiene la rotta nella primaverile e si conferma squadra che sa vincere anche le partite \"scomode\". L'Albiate, dal canto suo, resta una squadra di valore — ce la ritroveremo davanti molto presto, in Open A, e lì avremo modo di rispondere ancora. Quando si dirà che certe rivalità nascono da una partita, di solito non si scherza: questa è una di quelle."
+      },
+      {
+        "type": "paragraph",
+        "text": "Per ora due gol in venti minuti, una vittoria stretta tra i denti, e un grazie a chi è venuto a sostenerci all'Oratorio."
+      }
+    ],
+    "thumb": {
+      "style": "result",
+      "label": "2-1",
+      "subtitle": "PAINA VS ALBIATE — PRIMAVERILE",
+      "variant": "navy"
+    }
   }
 ]
