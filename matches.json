@@ -737,6 +737,27 @@
     "venue": {
       "name": "Oratorio S. Giovanni",
       "address": "Via Diaz 40, Rho"
+    },
+    "result": {
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "painaGoals": [
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta",
+          "minute": 7
+        },
+        {
+          "playerNumber": 9,
+          "playerLastName": "Trolese",
+          "minute": 16
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta",
+          "minute": 38
+        }
+      ]
     }
   },
   {
