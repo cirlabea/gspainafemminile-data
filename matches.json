@@ -769,6 +769,33 @@
     "venue": {
       "name": "Oratorio Card. Colombo - Parrocchia San Bernardo",
       "address": "Via Selvetto 21, Cesano Maderno"
+    },
+    "official": false,
+    "result": {
+      "homeGoals": 5,
+      "awayGoals": 3,
+      "painaGoals": [
+        {
+          "playerNumber": 15,
+          "playerLastName": "Galetti"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        },
+        {
+          "playerNumber": 9,
+          "playerLastName": "Trolese"
+        },
+        {
+          "playerNumber": 2,
+          "playerLastName": "Porta"
+        }
+      ]
     }
   },
   {
@@ -791,7 +818,8 @@
     "venue": {
       "name": "Oratorio Card. Colombo - Parrocchia San Bernardo",
       "address": "Via Selvetto 21, Cesano Maderno"
-    }
+    },
+    "official": false
   },
   {
     "datetime": "2026-05-30T20:00:00",
@@ -802,7 +830,8 @@
     "venue": {
       "name": "Oratorio Card. Colombo - Parrocchia San Bernardo",
       "address": "Via Selvetto 21, Cesano Maderno"
-    }
+    },
+    "official": false
   },
   {
     "datetime": "2026-06-07T19:00:00",
@@ -813,6 +842,7 @@
     "venue": {
       "name": "Oratorio Card. Colombo - Parrocchia San Bernardo",
       "address": "Via Selvetto 21, Cesano Maderno"
-    }
+    },
+    "official": false
   }
 ]
