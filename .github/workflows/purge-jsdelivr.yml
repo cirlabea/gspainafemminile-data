@@ -8,21 +8,50 @@ jobs:
   purge:
     runs-on: ubuntu-latest
     steps:
-      - name: Wait for jsDelivr to see new commit
-        run: sleep 30
+      - uses: actions/checkout@v4
 
-      - name: Purge jsDelivr CDN
+      - name: Wait for jsDelivr to see new commit + purge with verification
         run: |
           FILES="club.json matches.json news.json players.json staff.json"
-          for f in $FILES; do
-            curl -s "https://purge.jsdelivr.net/gh/cirlabea/gspainafemminile-data@main/$f"
-            echo "Purged $f"
-          done
+          REPO="cirlabea/gspainafemminile-data"
+          MAX_TRIES=8        # 8 tentativi
+          WAIT_BEFORE_FIRST=20   # attesa iniziale
+          WAIT_BETWEEN=15        # attesa tra retry
 
-      - name: Wait and re-purge (failsafe)
-        run: |
-          sleep 30
-          FILES="club.json matches.json news.json players.json staff.json"
+          echo "Aspetto ${WAIT_BEFORE_FIRST}s prima del primo purge..."
+          sleep "$WAIT_BEFORE_FIRST"
+
           for f in $FILES; do
-            curl -s "https://purge.jsdelivr.net/gh/cirlabea/gspainafemminile-data@main/$f"
+            EXPECTED_SHA=$(git hash-object "$f")
+            echo ""
+            echo "=== $f ==="
+            echo "git hash: $EXPECTED_SHA"
+
+            success=0
+            for try in $(seq 1 $MAX_TRIES); do
+              # Purga la CDN
+              curl -s "https://purge.jsdelivr.net/gh/$REPO@main/$f" > /dev/null
+
+              # Aspetta un attimo per la propagazione
+              sleep 3
+
+              # Confronta il contenuto servito da jsDelivr con quello su GitHub
+              CDN_SHA=$(curl -sL "https://cdn.jsdelivr.net/gh/$REPO@main/$f" | git hash-object --stdin)
+              echo "  try $try → cdn hash: $CDN_SHA"
+
+              if [ "$CDN_SHA" = "$EXPECTED_SHA" ]; then
+                echo "  ✅ $f aggiornato"
+                success=1
+                break
+              fi
+
+              if [ $try -lt $MAX_TRIES ]; then
+                echo "  ⏳ ancora vecchio, attendo ${WAIT_BETWEEN}s..."
+                sleep "$WAIT_BETWEEN"
+              fi
+            done
+
+            if [ $success -eq 0 ]; then
+              echo "  ⚠ $f non aggiornato dopo $MAX_TRIES tentativi (sarà aggiornato dal TTL naturale)"
+            fi
           done
