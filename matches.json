@@ -807,47 +807,6 @@
     "venue": {
       "name": "Oratorio Paina",
       "address": "Via Zara 13/A, Giussano"
-    },
-    "result": {
-      "homeGoals": 7,
-      "awayGoals": 8,
-      "painaGoals": [
-        {
-          "playerNumber": 8,
-          "playerLastName": "Valsecchi",
-          "minute": 1
-        },
-        {
-          "playerNumber": 2,
-          "playerLastName": "Porta",
-          "minute": 7
-        },
-        {
-          "playerNumber": 2,
-          "playerLastName": "Porta",
-          "minute": 13
-        },
-        {
-          "playerNumber": 2,
-          "playerLastName": "Porta",
-          "minute": 22
-        },
-        {
-          "playerNumber": 2,
-          "playerLastName": "Porta",
-          "minute": 23
-        },
-        {
-          "playerNumber": 13,
-          "playerLastName": "Gastaldo",
-          "minute": 26
-        },
-        {
-          "playerNumber": 8,
-          "playerLastName": "Valsecchi",
-          "minute": 28
-        }
-      ]
     }
   },
   {
