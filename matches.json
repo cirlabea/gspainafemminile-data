@@ -903,6 +903,11 @@
       "name": "Oratorio Card. Colombo - Parrocchia San Bernardo",
       "address": "Via Selvetto 21, Cesano Maderno"
     },
-    "official": false
+    "official": false,
+    "result": {
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "painaGoals": []
+    }
   }
 ]
