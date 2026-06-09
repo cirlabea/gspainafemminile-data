@@ -12,7 +12,7 @@ jobs:
 
       - name: Wait for jsDelivr to see new commit + purge with verification
         run: |
-          FILES="club.json matches.json news.json players.json staff.json"
+          FILES="club.json matches.json news.json players.json staff.json trophies.json"
           REPO="cirlabea/gspainafemminile-data"
           MAX_TRIES=8        # 8 tentativi
           WAIT_BEFORE_FIRST=20   # attesa iniziale
